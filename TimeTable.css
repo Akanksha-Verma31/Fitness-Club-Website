@@ -1,0 +1,50 @@
+	   body{
+  background:black;
+  color:white;
+  margin:10px;
+}
+#logo{
+  width:7%;
+  float:left;
+  padding-top:0; 
+  box-shadow:8px 8px 5px grey;
+}
+  header{
+  text-align:center;
+  font-size:40px;
+  text-shadow:2px 2px 4px white,0 0 25px blue,2px 1px 5px darkblue;
+}
+h2{
+  text-align:center;
+  font-size:26px;
+  text-decoration:underline;
+}
+p{
+  margin-top:0;
+  font-size:17px;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #dddd;
+}
+tr:hover {background-color:#b6b6b4;
+  color:blue;
+}
+tr:nth-child(even) {
+  background-color: #696969;
+}
+table{
+  margin-top:50px;
+}
+caption{
+  color:blue;
+  text-align:left;
+  text-decoration:bold;
+}
